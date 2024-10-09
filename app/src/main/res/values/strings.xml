@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">DAM_MCB</string>
+    <string name="radiobutton_sistemas">Ingeneria de Sistemas</string>
+    <string name="radiobutton_Ambiental">Ingeneria Ambiental</string>
+    <string name="radiobutton_Mecanica" />
+    <string name="radiobutton_mecanica">Ingeniería Mecánica</string>
+    <string name="radiobutton_Administración">Administración</string>
+    <string name="checkbox_radio">Radio</string>
+    <string name="checkbox_Internet">Internet</string>
+    <string name="checkbox_Amigo">Amigo</string>
+    <string name="checkbox_Publicidad">Publicidad</string>
+    <string name="button_enviar">Enviar</string>
 </resources>
